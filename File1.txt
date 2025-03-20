@@ -4,6 +4,4 @@
 Add line
 777.
 Privet world
-Commit testNew status code
-Hellow
-new branch line
+Commit test
