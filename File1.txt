@@ -5,3 +5,4 @@ Add line
 777.
 Privet world
 Commit test
+New line for GUI
